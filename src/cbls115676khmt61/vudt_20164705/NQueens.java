@@ -1,4 +1,4 @@
-package cbls115676khmt61.dangtrivu;
+package cbls115676khmt61.vudt_20164705;
 
 import localsearch.model.VarIntLS;
 import localsearch.selectors.MinMaxSelector;

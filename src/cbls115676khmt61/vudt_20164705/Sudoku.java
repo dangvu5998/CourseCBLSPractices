@@ -1,14 +1,10 @@
-package cbls115676khmt61.dangtrivu;
+package cbls115676khmt61.vudt_20164705;
 
 import java.util.*;
 import localsearch.model.VarIntLS;
-import localsearch.selectors.MinMaxSelector;
 import localsearch.model.LocalSearchManager;
 import localsearch.model.ConstraintSystem;
-import localsearch.model.IFunction;
 import localsearch.constraints.alldifferent.AllDifferent;
-import localsearch.functions.basic.FuncMinus;
-import localsearch.functions.basic.FuncPlus;
 
 public class Sudoku {
   private LocalSearchManager mgr;
